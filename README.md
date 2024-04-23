@@ -2,11 +2,11 @@
 ## Dataset Description
 ## Power BI Setup
 ## Data Visualization
-##Conclusion
-###1. Introduction
+## Conclusion
+### 1. Introduction
 This README file provides an overview of the Home Loan dataset and instructions on how to use Power BI for data visualization. The dataset contains information about customers, loan applications, sanctioned amounts, recovery amounts, products, and channel IDs.
 
-###2. Dataset Description
+### 2. Dataset Description
 The Home Loan dataset consists of the following columns:
 
 **Customer ID**: A unique identifier for each customer.\n
@@ -18,7 +18,7 @@ The Home Loan dataset consists of the following columns:
 **Recovery Amount**: The amount recovered from the customer, typically through loan repayments.\n
 **Products**: The type of home loan product the customer applied for.\n
 **Channel ID**: The channel through which the customer applied for the loan.\n
-###3. Power BI Setup
+### 3. Power BI Setup
 To create visualizations for the Home Loan dataset using Power BI, follow these steps:\n
 
 **Load the Data**:
@@ -44,7 +44,7 @@ Customize the visuals, add titles, and format your report to make it visually ap
 **Interactivity**:
 
 Add filters, slicers, and other interactive elements to allow users to explore the data.\n
-###4. Data Visualization
+### 4. Data Visualization
 Here are some examples of visualizations you can create using Power BI with the Home Loan dataset:\n
 
 **Loan Application Trend**: Line chart showing the trend of loan applications over time.\n
@@ -59,5 +59,5 @@ Here are some examples of visualizations you can create using Power BI with the 
 
 **Loan Status**: Use conditional formatting to indicate the status of loans (e.g., paid off, outstanding, default) with color-coded visuals.
 
-###5. Conclusion
+### 5. Conclusion
 With Power BI, I have turned the Home Loan dataset into insightful and interactive visualizations and built a 4-page report, enabling me to make data-driven decisions and gain valuable insights into the home loan business. Experimented with different visualizations and explored the data to uncover trends, patterns, and opportunities.##
