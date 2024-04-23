@@ -1,4 +1,4 @@
-## Contentains
+## Content
 - Introduction
 - Dataset Description
 - Power BI Setup
