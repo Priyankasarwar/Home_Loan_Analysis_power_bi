@@ -1,7 +1,7 @@
-##Introduction
-##Dataset Description
-##Power BI Setup
-##Data Visualization
+## Introduction
+## Dataset Description
+## Power BI Setup
+## Data Visualization
 ##Conclusion
 ###1. Introduction
 This README file provides an overview of the Home Loan dataset and instructions on how to use Power BI for data visualization. The dataset contains information about customers, loan applications, sanctioned amounts, recovery amounts, products, and channel IDs.
