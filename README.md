@@ -1,8 +1,9 @@
-## Introduction
-## Dataset Description
-## Power BI Setup
-## Data Visualization
-## Conclusion
+## Contentains
+- Introduction
+- Dataset Description
+- Power BI Setup
+- Data Visualization
+- Conclusion
 ### 1. Introduction
 This README file provides an overview of the Home Loan dataset and instructions on how to use Power BI for data visualization. The dataset contains information about customers, loan applications, sanctioned amounts, recovery amounts, products, and channel IDs.
 
@@ -62,4 +63,4 @@ Here are some examples of visualizations you can create using Power BI with the 
 **Loan Status**: Use conditional formatting to indicate the status of loans (e.g., paid off, outstanding, default) with color-coded visuals. <br>
 
 ### 5. Conclusion
-With Power BI, I have turned the Home Loan dataset into insightful and interactive visualizations and built a 4-page report, enabling me to make data-driven decisions and gain valuable insights into the home loan business. Experimented with different visualizations and explored the data to uncover trends, patterns, and opportunities.##
+With Power BI, I have turned the Home Loan dataset into insightful and interactive visualizations and built a 4-page report, enabling me to make data-driven decisions and gain valuable insights into the home loan business. Experimented with different visualizations and explored the data to uncover trends, patterns, and opportunities.
